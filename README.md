@@ -44,4 +44,5 @@ This will generate a fresh PDF report in your project folder.
 
 ## 👤 Author
 Tanishq Singh
+
 github.com/tanishqsingh919
