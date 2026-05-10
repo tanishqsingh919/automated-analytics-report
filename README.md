@@ -18,11 +18,13 @@ visualizations and dynamic date formatting.
 - Custom letterhead and structured layout
 
 ## ⚙️ Setup & Installation
+
+```bash
 pip install fpdf
 pip install pandas numpy matplotlib
 pip install plotly
 pip install -U kaleido
-
+```
 ## 🚀 How to Run
 $ python generate_report.py
 
