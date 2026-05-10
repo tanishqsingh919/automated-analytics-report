@@ -29,11 +29,13 @@ pip install -U kaleido
 ```
 If you run into a NumPy error, fix it with:
 
-$ pip install numpy==1.19.3
+pip install numpy==1.19.3
 
 ## 🚀 How to Run
 
-$ python generate_report.py
+```bash
+python generate_report.py
+```
 
 This will generate a fresh PDF report in your project folder.
 
