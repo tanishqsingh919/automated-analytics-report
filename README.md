@@ -21,11 +21,12 @@ visualizations and dynamic date formatting.
 
 Make sure you have Python installed, then install the required libraries:
 
-$ pip install fpdf
-$ pip install pandas numpy matplotlib
-$ pip install plotly
-$ pip install -U kaleido
-
+```bash
+pip install fpdf
+pip install pandas numpy matplotlib
+pip install plotly
+pip install -U kaleido
+```
 If you run into a NumPy error, fix it with:
 
 $ pip install numpy==1.19.3
