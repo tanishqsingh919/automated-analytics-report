@@ -19,8 +19,11 @@ visualizations and dynamic date formatting.
 
 ## ⚙️ Setup & Installation
 $ pip install fpdf
+
 $ pip install pandas numpy matplotlib
+
 $ pip install plotly
+
 $ pip install -U kaleido
 
 ## 🚀 How to Run
